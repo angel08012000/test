@@ -1,0 +1,6 @@
+#language代表是用什麼語言寫的
+language: java
+
+#
+jdk:
+ - openjdk11
